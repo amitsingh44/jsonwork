@@ -261,7 +261,6 @@
         "Carrier": "Ucom",
         "Notes": ""
     },
-    // Armenia End
     {
         "Country or unrecognized territory": "Armenia",
         "Continents": "Asia",
@@ -361,6 +360,7 @@
         "Carrier": "Karabakh Telecom",
         "Notes": ""
     },
+    // Armenia End
     {
         "Country or unrecognized territory": "Artsakh",
         "Continents": "Asia",
@@ -379,6 +379,7 @@
         "Carrier": "",
         "Notes": ""
     },
+    // Aruba End
     {
         "Country or unrecognized territory": "Ascension Island",
         "Continents": "Africa",
