@@ -490,6 +490,7 @@
         "Carrier": "Hutchison 3G Austria GmbH (drei) formerly Orange Austria (Orange [formerly ONE], Yesss)",
         "Notes": ""
     },
+    // Austria End
     {
         "Country or unrecognized territory": "Azerbaijan",
         "Continents": "Eurasian",
@@ -553,6 +554,7 @@
         "Carrier": "Bakcell",
         "Notes": ""
     },
+    // Azerbaijan End
     {
         "Country or unrecognized territory": "Bahamas",
         "Continents": "North America",
@@ -751,6 +753,7 @@
         "Carrier": "Zain",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix"
     },
+    // Bahrain End
     {
         "Country or unrecognized territory": "Bangladesh",
         "Continents": "Asia",
@@ -814,6 +817,7 @@
         "Carrier": "Banglalink",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix (so prefixes are not tightly coupled to a specificcarrier)."
     },
+    // Bangladesh End
     {
         "Country or unrecognized territory": "Barbados",
         "Continents": "North America",
@@ -850,6 +854,7 @@
         "Carrier": "Sunbeach",
         "Notes": "NANP member, no mobile-specific prefix"
     },
+    // BarbadosEnd
     {
         "Country or unrecognized territory": "Belarus",
         "Continents": "Europe",
