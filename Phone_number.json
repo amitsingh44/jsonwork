@@ -398,6 +398,7 @@
         "Carrier": "any",
         "Notes": "Although distinct mobile prefixes are allocated to different providers, the prefixes cannot be used to reliably determine the carrier, due to \"Number Porting\" from one network to another."
     },
+    //Australia End
     {
         "Country or unrecognized territory": "Australian Antarctic Territory",
         "Continents": "Antarctica",
