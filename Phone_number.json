@@ -145,6 +145,7 @@
         "Carrier": "Vodafone",
         "Notes": ""
     },
+    // Albania End
     {
         "Country or unrecognized territory": "Algeria",
         "Continents": "Africa",
@@ -172,6 +173,7 @@
         "Carrier": "Orascom Telecom Algerie",
         "Notes": "#NAME?"
     },
+    // Algeria end
     {
         "Country or unrecognized territory": "American Samoa",
         "Continents": "Australia",
