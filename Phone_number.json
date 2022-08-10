@@ -251,7 +251,7 @@
         "Carrier": "All carriers: Claro, Movistar, Personal, Tuenti",
         "Notes": "15 before the local number but after long distance area code for national calls (0 11 15 xxxx-xxxx) and 9 placed after the international access code excluding the 15 for international calls (+54 9 11 xxxx-xxxx)."
     },
-    // Argentina
+    // Argentina End
     {
         "Country or unrecognized territory": "Armenia",
         "Continents": "Asia",
@@ -261,6 +261,7 @@
         "Carrier": "Ucom",
         "Notes": ""
     },
+    // Armenia End
     {
         "Country or unrecognized territory": "Armenia",
         "Continents": "Asia",
