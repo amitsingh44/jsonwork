@@ -817,6 +817,7 @@
         "Carrier": "Banglalink",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix (so prefixes are not tightly coupled to a specificcarrier)."
     },
+    // Bangladesh End
     {
         "Country or unrecognized territory": "Barbados",
         "Continents": "North America",
