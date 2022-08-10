@@ -89,6 +89,7 @@
         "Carrier": "Roshan",
         "Notes": "www.roshan.af"
     },
+    /* Afghanistan End  */
     {
         "Country or unrecognized territory": "�land",
         "Continents": "Europe",
@@ -116,6 +117,7 @@
         "Carrier": "�lands Telekommunikation Ab",
         "Notes": "Part of numbering plan of Finland"
     },
+    /* Aland End  */
     {
         "Country or unrecognized territory": "Albania",
         "Continents": "Europe",
@@ -143,6 +145,7 @@
         "Carrier": "Vodafone",
         "Notes": ""
     },
+    // Albania End
     {
         "Country or unrecognized territory": "Algeria",
         "Continents": "Africa",
@@ -170,6 +173,7 @@
         "Carrier": "Orascom Telecom Algerie",
         "Notes": "#NAME?"
     },
+    // Algeria end
     {
         "Country or unrecognized territory": "American Samoa",
         "Continents": "Australia",
@@ -179,6 +183,7 @@
         "Carrier": "",
         "Notes": "NANP member, no mobile-specific prefix"
     },
+    // American Samoa End
     {
         "Country or unrecognized territory": "Andorra",
         "Continents": "Europe",
@@ -188,6 +193,7 @@
         "Carrier": "",
         "Notes": ""
     },
+    // Andorra End
     {
         "Country or unrecognized territory": "Angola",
         "Continents": "Africa",
