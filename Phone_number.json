@@ -1207,6 +1207,7 @@
         "carrier": "",
         "Notes": "Mobile phones use geographic area codes (two digits): after that, all numbers assigned to mobile service have nine digits, starting with 6, 7, 8 or 9 (example: +55 15 99999�9999). 90 is not possible, because collect calls start with this number.[4]"
     },
+    // Brazil End
     {
         "Country or unrecognized territory": "British Indian Ocean Territory",
         "Continents": "Asia",
