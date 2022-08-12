@@ -1217,6 +1217,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // British Indian Ocean Territory
     {
         "Country or unrecognized territory": "British Virgin Islands",
         "Continents": "North America",
@@ -1235,6 +1236,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Brunei End
     {
         "Country or unrecognized territory": "Bulgaria",
         "Continents": "Europe",
@@ -1280,6 +1282,7 @@
         "carrier": "Other mobile networks",
         "Notes": "#NAME?"
     },
+    // Bulgaria
     {
         "Country or unrecognized territory": "Burkina Faso",
         "Continents": "Africa",
@@ -1352,6 +1355,7 @@
         "carrier": "Telecel",
         "Notes": ""
     },
+    // Burkina Faso End
     {
         "Country or unrecognized territory": "Burma",
         "Continents": "Asia",
@@ -1370,6 +1374,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Burundi
     {
         "Country or unrecognized territory": "Cambodia",
         "Continents": "Asia",
@@ -1523,6 +1528,7 @@
         "carrier": "Smart",
         "Notes": ""
     },
+    // Cambodia
     {
         "Country or unrecognized territory": "Cameroon",
         "Continents": "Africa",
@@ -1541,6 +1547,7 @@
         "carrier": "Orange",
         "Notes": ""
     },
+    // Cameroon End 
     {
         "Country or unrecognized territory": "Canada",
         "Continents": "North America",
@@ -1550,6 +1557,7 @@
         "carrier": "",
         "Notes": "Mobile phones use geographic area codes. Many exchange codes contain primarily mobile devices; local numbers are portable between wired and wireless carriers. While area code 600 has been established as a non-geographic code that can be used by mobile phones, the only significant mobile usage has been for satellite phone service in remote regions."
     },
+    // Canada End
     {
         "Country or unrecognized territory": "Canary Islands",
         "Continents": "Africa",
@@ -1568,6 +1576,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Cape Verde End
     {
         "Country or unrecognized territory": "Cayman Islands",
         "Continents": "North America",
@@ -1577,6 +1586,7 @@
         "carrier": "",
         "Notes": "NANP member, no mobile-specific prefix"
     },
+    // Cayman Islands End
     {
         "Country or unrecognized territory": "Central African Republic",
         "Continents": "Africa",
@@ -1586,6 +1596,7 @@
         "carrier": "Telecel",
         "Notes": ""
     },
+    // Central African Republic End
     {
         "Country or unrecognized territory": "Ceuta",
         "Continents": "Africa",
@@ -1667,6 +1678,7 @@
         "carrier": "Salamat",
         "Notes": ""
     },
+    // Chad End 
     {
         "Country or unrecognized territory": "Chagos Islands",
         "Continents": "Asia",
@@ -1685,6 +1697,7 @@
         "carrier": "All carriers: Movistar, Claro, Entel, WOM, Virgin Mobile, etc.",
         "Notes": "Example: +56 9 1234 5678 dialed from Chilean or foreign mobile phones, with or without blank spaces."
     },
+    // Chile End
     {
         "Country or unrecognized territory": "Christmas Island",
         "Continents": "Asia",
@@ -1694,6 +1707,7 @@
         "carrier": "",
         "Notes": "See Australia"
     },
+    // Christmas Island End
     {
         "Country or unrecognized territory": "Cocos (Keeling) Islands",
         "Continents": "Asia",
@@ -1703,6 +1717,7 @@
         "carrier": "",
         "Notes": "See Australia"
     },
+    // Cocos End
     {
         "Country or unrecognized territory": "Collectivity of Saint Martin",
         "Continents": "North America",
@@ -1838,6 +1853,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Colombia
     {
         "Country or unrecognized territory": "Comoros",
         "Continents": "Africa",
@@ -1847,6 +1863,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Comoros
     {
         "Country or unrecognized territory": "Cook Islands",
         "Continents": "Australia",
@@ -1865,6 +1882,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Cook Islands
     {
         "Country or unrecognized territory": "Costa Rica",
         "Continents": "North America",
@@ -1892,6 +1910,7 @@
         "carrier": "Instituto Costarricense de Electricidad (K�lbi)",
         "Notes": "Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier)."
     },
+    // Costa Rica
     {
         "Country or unrecognized territory": "Croatia",
         "Continents": "Europe",
@@ -1946,6 +1965,7 @@
         "carrier": "T-Mobile",
         "Notes": "Due to Mobile number portability the prefix of an existing number does not determine the ntocarri Any new number will follow the numbering plan."
     },
+    // Croatia End
     {
         "Country or unrecognized territory": "Cuba",
         "Continents": "North America",
@@ -1955,6 +1975,7 @@
         "carrier": "ETECSA",
         "Notes": ""
     },
+    // Cuba
     {
         "Country or unrecognized territory": "Cura�ao",
         "Continents": "South America",
@@ -1973,6 +1994,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Curaçao End
     {
         "Country or unrecognized territory": "Cyprus",
         "Continents": "Europe",
@@ -2018,6 +2040,7 @@
         "carrier": "Cytamobile-Vodafone",
         "Notes": "a subsidiary of Cyta"
     },
+    // Cyprus
     {
         "Country or unrecognized territory": "Czech Republic",
         "Continents": "Europe",
@@ -2135,6 +2158,8 @@
         "carrier": "U:fon",
         "Notes": "Except 79023, 79044, 79066, 79088."
     },
+    // Czech Republic
+    // *****
     {
         "Country or unrecognized territory": "Democratic Republic of Congo",
         "Continents": "Africa",
@@ -2288,6 +2313,7 @@
         "carrier": "Airtel",
         "Notes": ""
     },
+    // Democratic Republic of the Congo
     {
         "Country or unrecognized territory": "Denmark",
         "Continents": "Europe",
@@ -2414,6 +2440,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Denmark
     {
         "Country or unrecognized territory": "Diego Garcia",
         "Continents": "Europe",
@@ -2432,6 +2459,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Djibouti
     {
         "Country or unrecognized territory": "Dominica",
         "Continents": "North America",
@@ -2468,6 +2496,7 @@
         "carrier": "",
         "Notes": "NANP member, no mobile-specific prefix"
     },
+    // Dominican Republic
     {
         "Country or unrecognized territory": "East Timor",
         "Continents": "Asia",
@@ -2486,6 +2515,7 @@
         "carrier": "",
         "Notes": "#NAME?"
     },
+    // East Timor
     {
         "Country or unrecognized territory": "Easter Island",
         "Continents": "South America",
@@ -8840,6 +8870,7 @@
         "carrier": "China Unicom: 196China Telecom: 190, 191, 193, 199\nChina Mobile: 195, 197, 198\nChina Broadcast Network: 192",
         "Notes": "194 not released (Updated Feb. 10, 2020)"
     },
+    // People's Republic of China End
     {
         "Country or unrecognized territory": "Peru",
         "Continents": "South America",
@@ -9569,6 +9600,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Congo 
     {
         "Country or unrecognized territory": "R�union",
         "Continents": "Africa",
