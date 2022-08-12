@@ -1697,6 +1697,7 @@
         "carrier": "All carriers: Movistar, Claro, Entel, WOM, Virgin Mobile, etc.",
         "Notes": "Example: +56 9 1234 5678 dialed from Chilean or foreign mobile phones, with or without blank spaces."
     },
+    // Chile End
     {
         "Country or unrecognized territory": "Christmas Island",
         "Continents": "Asia",
