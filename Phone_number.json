@@ -1000,6 +1000,7 @@
         "Carrier": "Orange Belgium (or other)",
         "Notes": "Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier).If there is only +32.. followed by any other, shorter number, like +32 51 724859, this is the number of a normal phone, not a mobile."
     },
+    // Belgium End
     {
         "Country or unrecognized territory": "Belize",
         "Continents": "North America",
