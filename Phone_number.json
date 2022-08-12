@@ -1910,6 +1910,7 @@
         "carrier": "Instituto Costarricense de Electricidad (K�lbi)",
         "Notes": "Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier)."
     },
+    // Costa Rica
     {
         "Country or unrecognized territory": "Croatia",
         "Continents": "Europe",
