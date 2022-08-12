@@ -2152,6 +2152,7 @@
         "carrier": "U:fon",
         "Notes": "Except 79023, 79044, 79066, 79088."
     },
+    // *****
     {
         "Country or unrecognized territory": "Democratic Republic of Congo",
         "Continents": "Africa",
@@ -9587,6 +9588,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // Congo 
     {
         "Country or unrecognized territory": "R�union",
         "Continents": "Africa",
