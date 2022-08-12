@@ -1557,6 +1557,7 @@
         "carrier": "",
         "Notes": "Mobile phones use geographic area codes. Many exchange codes contain primarily mobile devices; local numbers are portable between wired and wireless carriers. While area code 600 has been established as a non-geographic code that can be used by mobile phones, the only significant mobile usage has been for satellite phone service in remote regions."
     },
+    // Canada End
     {
         "Country or unrecognized territory": "Canary Islands",
         "Continents": "Africa",
