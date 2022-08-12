@@ -1965,6 +1965,7 @@
         "carrier": "T-Mobile",
         "Notes": "Due to Mobile number portability the prefix of an existing number does not determine the ntocarri Any new number will follow the numbering plan."
     },
+    // Croatia End
     {
         "Country or unrecognized territory": "Cuba",
         "Continents": "North America",
