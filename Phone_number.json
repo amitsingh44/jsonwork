@@ -963,6 +963,7 @@
         "Carrier": "A1",
         "Notes": "Users can switch carriers while keeping number and prefix (so prefixes are not tightly coupled to a specific carrier)."
     },
+    // Belarus End
     {
         "Country or unrecognized territory": "Belgium",
         "Continents": "Europe",
