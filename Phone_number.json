@@ -4028,7 +4028,7 @@
         "carrier": "O2 Germany (GSM/UMTS)",
         "Notes": ""
     },
-    //Germany
+    // Germany
     {
         "Country or unrecognized territory": "Ghana",
         "Continents": "Africa",
@@ -4137,6 +4137,7 @@
         "carrier": "Kasapa",
         "Notes": ""
     },
+    // Ghana
     {
         "Country or unrecognized territory": "Gibraltar",
         "Continents": "Europe",
