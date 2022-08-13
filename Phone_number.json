@@ -3317,6 +3317,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // ******
     {
         "Country or unrecognized territory": "Fiji",
         "Continents": "Australia",
@@ -3344,6 +3345,7 @@
         "carrier": "Vodafone",
         "Notes": ""
     },
+    // Fiji
     {
         "Country or unrecognized territory": "Finland",
         "Continents": "Europe",
