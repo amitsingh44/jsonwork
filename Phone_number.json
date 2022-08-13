@@ -2580,6 +2580,7 @@
         "carrier": "WE Egypt",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix.\nAn additional digit has been added to the code of every carrier. Making a single code per carrier, after each carrier had to have multiple codes. And making the NSN 10 digits after it was 9.\nDialing format inside Egypt is 01X XXXX XXXX, International format is +20 1X XXXX XXXX"
     },
+    // Egypt End
     {
         "Country or unrecognized territory": "El Salvador",
         "Continents": "North America",
