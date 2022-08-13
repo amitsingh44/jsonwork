@@ -4977,6 +4977,7 @@
         "carrier": "",
         "Notes": ""
     },
+    // *******
     {
         "Country or unrecognized territory": "Honduras",
         "Continents": "North America",
@@ -5013,6 +5014,7 @@
         "carrier": "Tigo",
         "Notes": ""
     },
+    // Honduras
     {
         "Country or unrecognized territory": "Hong Kong",
         "Continents": "Asia",
