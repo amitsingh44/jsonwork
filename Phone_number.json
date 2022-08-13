@@ -5351,6 +5351,7 @@
         "carrier": "Various GSM, including Airtel, Vodafone, Idea, Aircel, Uninor, Reliance GSM and Videocon.",
         "Notes": "Mobile number portability implemented since 2011 allows subscribers to change their operators without changing numbers. For more details, see Mobile telephone numbering in India"
     },
+    // india
     {
         "Country or unrecognized territory": "Indonesia",
         "Continents": "Asia",
