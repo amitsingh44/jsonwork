@@ -6556,6 +6556,7 @@
         "carrier": "",
         "Notes": "See United Kingdom"
     },
+    /// ***********************
     {
         "Country or unrecognized territory": "Jordan",
         "Continents": "Asia",
@@ -6583,6 +6584,7 @@
         "carrier": "Umniah",
         "Notes": "example +962 78 000 0000 with country code is 12 digits"
     },
+    //Jordan
     {
         "Country or unrecognized territory": "Kazakhstan",
         "Continents": "Eurasia",
