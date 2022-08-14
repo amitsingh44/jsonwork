@@ -5951,6 +5951,7 @@
         "carrier": "Golan Telecom",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix"
     },
+    // Israel
     {
         "Country or unrecognized territory": "Italy",
         "Continents": "Europe",
@@ -6473,6 +6474,7 @@
         "carrier": "H3G (Tre) operator reserved (routing number)",
         "Notes": "Users can now switch carriers and keep their cell phone numbers, including prefix. Usually NSN are 10 digits long for mobile and personal services."
     },
+    // Italy
     {
         "Country or unrecognized territory": "Ivory Coast",
         "Continents": "Africa",
