@@ -6891,6 +6891,7 @@
         "carrier": "",
         "Notes": "There are 4 mobile operators (LMT, Tele2, Bite, Triatel)All mobile phone numbers start with \"2\" and each of them has 8 digits (without country code),.\nFor example: +371 2 63 12345"
     },
+    /// *****************
     {
         "Country or unrecognized territory": "Lebanon",
         "Continents": "Asia",
