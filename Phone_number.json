@@ -183,7 +183,6 @@
         "carrier": "",
         "Notes": "NANP member, no mobile-specific prefix"
     },
-    // American Samoa End
     {
         "Country or unrecognized territory": "Andorra",
         "Continents": "Europe",
@@ -554,7 +553,6 @@
         "carrier": "Bakcell",
         "Notes": ""
     },
-    // Azerbaijan End
     {
         "Country or unrecognized territory": "Bahamas",
         "Continents": "North America",
